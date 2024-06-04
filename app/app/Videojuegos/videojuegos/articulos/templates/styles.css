@@ -1,0 +1,147 @@
+
+body{
+    font-family: Montserrat;
+}
+
+.navbar-brand{
+    font-family: "Pacifico";
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 0 18px;
+    
+}
+#title{
+    background-color: 	#DBA979;
+    height: 50%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+}
+
+
+
+#p-title{
+    font-family: "Lilita one";
+    font-size: 3rem;
+    line-height: 1.5;
+    color: 	#E8EFCF;
+        
+}
+
+.icon{
+    height: 15%;
+    width: 15%;
+}
+
+.nav-item{
+
+    padding: 0 10px;;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: Montserrat-light;
+}
+
+
+.descarga{
+    margin: 5% 3% 5%;
+
+}
+
+#features{
+    padding: 15% 15%;
+    text-align: center;    
+}
+
+h2{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900px;
+}
+
+p{
+    font-family: abel;
+    color: #A4907C;
+    font-size: 120%;
+}
+
+#testimonials{
+    text-align: center;
+    background-color:#DBA979;
+    color: antiquewhite;
+}
+
+.testimonial-img{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;}
+
+.testimonial2-image{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+#press{
+    background-color:#DBA979;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img{
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
+.press-img-c{
+    width: 5%;
+    margin: 20px 20px 50px;
+}
+
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+
+}
+
+.card{
+    margin-top: 10%;
+}
+
+#cta{
+    background-color: #DBA979;
+    padding: 3% 17%;
+    text-align: center;
+}
+
+.icons{
+    margin: 20px 10px;
+}
+
+#footer{
+    background-color: #DBA979;
+    text-align: center;
+    padding: 3% 15% 3% ;
+}
+
+.title-cta{
+    color: antiquewhite;
+    font-family: "Montserrat";
+    line-height: 1.5;
+
+}
+
+@media (max-width: 1028px) {
+    #p-title{
+        text-align: center;
+    }
+    
+}
+
